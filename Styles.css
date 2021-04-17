@@ -1,0 +1,27 @@
+/* These are the main styles that were created for the site */
+
+body {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-image: url('Background.png')}
+ul {font-size: 14px;
+    font-style: italic;}
+a {color:darkcyan; text-decoration:none;}
+a:hover {text-decoration:underline}
+
+.listhead {font-weight: bolder; font-style: normal;}
+.notbold {font-weight: normal;}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+
+.justify {text-align: justify;}
+
+.home {background-image: url('Background.png');
+background-position: bottom right;
+background-size: auto;}
+
+/* These were created to demonstrate the box model */
+
+.box1 {border-width: 1px; border-style: solid; border-color:pink;}
+.box2 {padding: 4px; margin: 5px;}
+
